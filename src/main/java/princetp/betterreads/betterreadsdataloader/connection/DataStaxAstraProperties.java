@@ -1,4 +1,4 @@
-package connection;
+package princetp.betterreads.betterreadsdataloader.connection;
 
 import java.io.File;
 
